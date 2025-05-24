@@ -1,0 +1,13 @@
+OCR : Sudoku solver with image recognition ( with neural network created from scratch ) - in C
+MINI_SHELL : A shell with basic features ( variable, loops, special parameters, break, continue, conditions, command, subshell ) - in C
+FlashField : A video csgo / valorant based video game with muliplayer and campain mode - Unity, C#, blender, photoshop
+TIGER : Recreate first steps of compilation for the tiger language (lexer, parser, errors handling ) - in C++
+MyMalloc : My own version of malloc ( malloc, free, realloc ) - in C
+MyBittorrent : My own version of the bittorrent protocol
+EvalExpr : My own calculator ( + - ^ * / ) - in c
+TinyPrintf : My own version of a printf with basic features ( %d, %u, %s, %c, %o, %x ) - in C
+MyFind : My own version of the "find" command ( print, name, type, or, and, not, newer, perm, user ) - in C
+IDVOC : deploy an application using Docker
+GIT WORKSHOP : A project given by my school to learn all the Git basics - Git
+OIDC : recreate an OIDC protocol - in java
+and many others
